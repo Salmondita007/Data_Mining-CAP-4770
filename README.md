@@ -1,1 +1,1 @@
-# Data_MIning-CAP-4770
+# Data_Mining-CAP-4770
