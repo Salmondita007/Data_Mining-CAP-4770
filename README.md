@@ -5,7 +5,7 @@
 ## Language Used:
   - Python
 ## Executed on:
-**[Google Colab] (https://colab.research.google.com/)**
+**[Google Colab]** (https://colab.research.google.com/)
 ## Sources:
   - (http://inquiryum.com/machine-learning/)
   - (https://github.com/zacharski/ml-class)
