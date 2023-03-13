@@ -7,5 +7,5 @@
 ## Executed on:
 **[Google Colab] (https://colab.research.google.com/)**
 ## Sources:
-**(http://inquiryum.com/machine-learning/)**
-**(https://github.com/zacharski/ml-class)**
+* (http://inquiryum.com/machine-learning/)**
+* (https://github.com/zacharski/ml-class)**
